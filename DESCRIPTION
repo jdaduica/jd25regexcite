@@ -2,7 +2,7 @@ Package: jd25regexcite
 Title: Make Regular Expressions More Exciting
 Version: 0.0.0.9000
 Authors@R: 
-    person("Julian", "Daduica", , "jdaduica@ubc.stu.com", role = c("aut", "cre"),
+    person("Julian", "Daduica", , "jdaduica@student.ubc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Convenience functions to make some common tasks with string
     manipulation and regular expressions a bit easier.
